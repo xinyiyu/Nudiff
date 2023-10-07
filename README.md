@@ -17,6 +17,9 @@ The experiments in our paper are conducted on two datasets: MoNuSeg and Kumar. T
 ## Usage
 The [notebook](https://github.com/xinyiyu/Nudiff/blob/main/) shows the pipeline of data preparation, training/testing of diffusion models and evaluation of segmentation performance. Please read it before you use the package.
 
+## Pretrained models
+The pretrained unconditional and conditional diffusion models of MoNuSeg and Kumar can be downloaded from [baiduyun][https://pan.baidu.com/s/1pwTfYQ_lvly32Mi8Xo1KHg?pwd=isjg].
+
 ## Acknowledge
 The repository is mainly based on [openai/guided-diffusion](https://github.com/openai/guided-diffusion) and [vqdang/hover-net](https://github.com/openai/guided-diffusion). We also thank for the contributors of public datasets.
 
