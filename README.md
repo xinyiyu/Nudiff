@@ -15,7 +15,7 @@ The `./hover_net` directory holds the code of [vqdang/hover-net](https://github.
 The experiments in our paper are conducted on two datasets: MoNuSeg and Kumar. The MoNuSeg dataset has 44 labeled images of size 1000 × 1000, 30 for training and 14 for testing. The Kumar dataset consists of 30 1000 ×1000 labeled images from seven organs of The Cancer Genome Atlas (TCGA) database. The dataset is splited into 16 training images and 14 testing images. Download the two datasets from [link](https://drive.google.com/drive/folders/1l1gb2gu8nJL7LEITjHCN0NQeBNXFGAxH?usp=sharing).
 
 ## Usage
-The [notebook](https://github.com/xinyiyu/Nudiff/blob/main/) shows the pipeline of data preparation, diffusion models training, sampling and segmentation model training/testing. Please read it before you use the package.
+The [notebook](https://github.com/xinyiyu/Nudiff/blob/main/nudiff_note.ipynb) shows the pipeline of data preparation, diffusion models training, sampling and segmentation model training/testing. Please read it before you use the package.
 
 ## Pretrained models
 The pretrained unconditional and conditional diffusion models of MoNuSeg and Kumar can be downloaded from [baiduyun](https://pan.baidu.com/s/1pwTfYQ_lvly32Mi8Xo1KHg?pwd=isjg).
